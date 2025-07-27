@@ -20,3 +20,6 @@ jobs:
 
       - name: Time Counter
         run: cmd /c loop.bat
+
+      - name: Time Counter 2
+        run: cmd /c exit
